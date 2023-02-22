@@ -1,0 +1,25 @@
+html, body {
+  margin: 0px;
+  background-color: #2F4F30;
+  color: #ccc;
+}
+
+
+.titule {
+  text-align: center;
+  background-color: black;
+  color: azure;
+  padding: 20px;
+  font-size: 25px;
+}
+
+.carta{
+  position: relative;
+  width: 150px;
+  left: 100px;
+  margin-right: -75px;
+}
+
+#skinet-cartas, #jugador-cartas {
+  height: 240px;
+}
